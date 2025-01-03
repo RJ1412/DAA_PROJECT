@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1705973915 source:c:\users\sattvik\desktop\themark_dsa_cp\markfcn\dsa_mark\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerr.h"
+	"codes.c"
+
+1705981719 c:\users\sattvik\desktop\themark_dsa_cp\markfcn\dsa_mark\headerr.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1705981888 c:\users\sattvik\desktop\themark_dsa_cp\markfcn\dsa_mark\codes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"headerr.h"
+
+1705949615 source:c:\users\sattvik\desktop\themark_dsa_cp\markfcn\dsa_mark\untitled1mark.c'.c
+

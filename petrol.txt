@@ -1,0 +1,22 @@
+Vidyanagar Petrol_Pump 0.2
+Vidyanagar Bharat_Petroleum  2
+Vidyanagar HP_Petrol_pump 1.6
+Navanagar HPCL_Dealer 1.5
+Navanagar IndianOil 1.7
+Navanagar Vaishnavi_Petroleum 2.7
+Bairidevarkoppa Bharat_Petroleum 0.7
+Bairidevarkoppa Shell 0.7
+Rajnagar Saurabh_Petroleum_and_CNG_station 1
+Gokul_Road Shell_Gokul_Road 2
+Gokul_Road HP_Petrol_Pump 1.5
+Gokul_Road HP_Petrol_Pump 1.75
+Gokul_Road Atharv_Petroleums 0.75
+Indira_Colony HP_Petrol_Pump 2.0
+Indira_Colony IndianOil 1.75
+Indira_Colony Doddmani_Petroleum_Servces 1.50
+Karwar_Road Bagi_Petrol_Pump 1.25
+Karwar_Road HP_Petrol_Pump 1.75
+Gandhinagar IndianOil 1.25
+Gandhinagar Sundar_Petrol_Pump 1.15
+Gandhinagar HP_Petrol_Pump 1.15
+

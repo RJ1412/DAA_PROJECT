@@ -1,0 +1,12 @@
+Vidyanagar Vidyanagar_Bus_Stop
+BVB BVB_BUS_STOP
+Unkal_Lake  Unkal_Stop
+Unkal_Lake  Unkal_Cross_Stop
+BVB Vidyanagar_Bus_Stop
+Nrupatunga_Hills Unkal
+Nrupatunga_Boys_Hostel Vidyanagar
+IT_Park Hosur_Bus_Stand
+GokulRoad  Hosur_Bus_Stand
+Urban_Oasis_Mall Hosur_Cross
+U_Mall CBT
+Railway_Station Railway_Station
